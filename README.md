@@ -9,3 +9,6 @@ cp -f ./.vimrc ~
 
 *item1
 *item2
+
+
+dd
